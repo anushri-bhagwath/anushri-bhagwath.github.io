@@ -23,7 +23,7 @@ custom_js:
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://github.com/anushri-bhagwath/anushri-bhagwath.github.io/blob/main/_data/New_York_City_Leading_Causes_of_Death.csv" text="The Data" %}
 </div>
 
 <div class="right">
