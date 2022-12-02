@@ -16,7 +16,7 @@ custom_js:
 ### Primary Visual: New York City Average Death analysis based on Race Ethnicity and Sex
 <br>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/race_ethnicity_deathsNYC.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/race_ethnicity_deathsNYC1.json" style="width: 100%"></vegachart>
 
 
 <!-- these are written in a combo of html and liquid --> 
